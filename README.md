@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a software engineer and passionate about building cool stuff, System Design, Distributed Systems.
+
+As of now, I work as a SDE-I at a Bangalore based startup name Javis.ai. Before this, I was an Intern at [Tata 1MG](https://www.1mg.com/). 
+I was also an open source contributor in [Zulip](https://zulip.com/) community.
+
+I keep diving deep into engineering details and share my knowledge.
+
 <!--
 **thisisnitish/thisisnitish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 ![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisnitish&count_private=true&&show_icons=true&&theme=radical)
+-->
