@@ -2,7 +2,7 @@
 
 I am a software engineer and passionate about building cool stuff, System Design, Distributed Systems.
 
-As of now, I work as a SDE-I at a Bangalore based startup name Javis.ai. Before this, I was an Intern at [Tata 1MG](https://www.1mg.com/). 
+As of now, I work as a Software Engineer at a startup based in Bangalore. Before this, I was an Intern at [Tata 1MG](https://www.1mg.com/). 
 I was also an open source contributor in [Zulip](https://zulip.com/) community.
 
 I keep diving deep into engineering details and share my knowledge.
